@@ -51,8 +51,8 @@ public class WrapperClass {
 
         //AUTOUNBOXING
 
-//         Integer number = 20;
-//        int newNumber = number;
+         Integer number = 20;
+        int newNumber = number;
 
        // int newNumber = number.intValue();
 
